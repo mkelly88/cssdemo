@@ -1,0 +1,83 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+  }
+  
+  nav {
+    background-color: #0a5569;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .flights {
+    background-color: #5da7ae;
+    margin: 10px 10px;
+    padding: 5px 10px;
+    width: 180px;
+  }
+  
+  .city {
+    background-color: #5da7ae;
+    margin: 10px 10px;
+    padding: 5px 10px;
+    width: 180px;
+  }
+  
+  .island {
+    background-color: #5da7ae;
+    margin: 10px 10px;
+    padding: 5px 10px;
+    width: 180px;
+  }
+  
+  .restaurant {
+    background-color: #5da7ae;
+    margin: 10px 10px;
+    padding: 5px 10px;
+    width: 180px;
+  }
+  
+  body ul li a {
+    color: white;
+  }
+  
+  a:hover {
+    color: red;
+  }
+  
+  .specifics {
+    background-color: #5da7ae;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+    width:250px;
+    text-align: center;
+    line-height:30px;
+  }
+  
+  footer {
+    background-color: #0a5560;
+    color:white;
+    margin: 20px 0px 0px 0px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .description {
+    text-align: center;
+    width: 100px;
+  }
+  
+  #container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  
+  
